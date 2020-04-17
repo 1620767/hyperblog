@@ -8,3 +8,5 @@ en un poco alto, y es universitario
 
 quiero hacer el git resef --soft
 que pasa si escribo esto
+
+ultima actualizacion propia
