@@ -5,3 +5,6 @@ viviendo en lima
 hoy hablaremos de su vida
 
 en un poco alto, y es universitario
+
+quiero hacer el git resef --soft
+que pasa si escribo esto
