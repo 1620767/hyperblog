@@ -10,5 +10,6 @@ quiero hacer el git resef --soft
 que pasa si escribo esto
 
 master 1
+Master 2
 
 ultima actualizacion propia
