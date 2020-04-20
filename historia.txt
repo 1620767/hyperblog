@@ -9,4 +9,6 @@ en un poco alto, y es universitario
 quiero hacer el git resef --soft
 que pasa si escribo esto
 
+master 1
+
 ultima actualizacion propia
