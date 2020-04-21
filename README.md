@@ -5,3 +5,4 @@ Blog para un curso
 
 En este curso vemos:
 * Comandos Git
+* creado por el mejo: "Luis"
